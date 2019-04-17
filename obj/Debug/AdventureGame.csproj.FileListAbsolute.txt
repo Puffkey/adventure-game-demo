@@ -1,0 +1,7 @@
+C:\Users\Pufek\OneDrive\Documents\C#\UczemSiem001\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\Pufek\OneDrive\Documents\C#\UczemSiem001\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\Pufek\OneDrive\Documents\C#\UczemSiem001\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\Pufek\OneDrive\Documents\C#\UczemSiem001\AdventureGame\obj\Debug\AdventureGame.csprojAssemblyReference.cache
+C:\Users\Pufek\OneDrive\Documents\C#\UczemSiem001\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Pufek\OneDrive\Documents\C#\UczemSiem001\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\Pufek\OneDrive\Documents\C#\UczemSiem001\AdventureGame\obj\Debug\AdventureGame.pdb
